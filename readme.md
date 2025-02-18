@@ -1,6 +1,9 @@
 # Session 5
-## Input
-## Exceptions
-## If
-## While
-## For
+## Includes
+1. Class Content
+* Input
+* Exceptions
+* If
+* While
+* For
+2. Exercises for Session 5
